@@ -165,46 +165,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "2067e7dcf9dbb098",
-    "type": "floating",
-    "children": [
-      {
-        "id": "400dbdc6a6457525",
-        "type": "window",
-        "children": [
-          {
-            "id": "ef68e5c3dbeccd13",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "bb4abc9e9b56647e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2026/大模型的原理与技术/第一章.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "第一章"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 602,
-        "y": 339,
-        "width": 678,
-        "height": 599,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "bb4abc9e9b56647e",
+  "active": "a979a7998709a030",
   "lastOpenFiles": [
     "2026/大模型的原理与技术/第一章.md",
     "欢迎.md",
